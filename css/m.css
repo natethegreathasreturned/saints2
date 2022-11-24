@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+}
+body {
+    background-color: orange;
+}
+u{
+    cursor: pointer;
+    width: 30px;
+}
+img{
+    cursor: pointer;
+}
+nav a:hover{
+    color: #3dfc03;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #ff9900;
+    align-items: center;
+}
+u{
+    cursor: pointer;
+}
+u a:hover{
+    color: #ff9900;
+}
+nav a:hover{
+    color: #49fc03;
+}
